@@ -72,8 +72,6 @@ namespace UnreachableSymbolsElimination
                 }
             }
 
-            //if (axiomValue.Contains("")) helper.Add("");
-            //HashSet<string> finalSet = new HashSet<string>(helper);
             int index = 0;
 
             while (index<helper.Count)
